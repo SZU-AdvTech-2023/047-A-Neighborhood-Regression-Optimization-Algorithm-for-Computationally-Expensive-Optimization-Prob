@@ -1,0 +1,9 @@
+@article{REPO047,
+    author = "Zhou, Yuren and He, Xiaoyu and Chen, Zefeng and Jiang, Siyu",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "5",
+    pages = "3018-3031",
+    title = "{A Neighborhood Regression Optimization Algorithm for Computationally Expensive Optimization Problems}",
+    volume = "52",
+    year = "2022"
+}
